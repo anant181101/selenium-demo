@@ -1,5 +1,5 @@
 {
-  "venvPath": ".",
+  "venvPath": "/home/anantubuntu/testingproject/selenium-demo",
   "venv": ".venv",
   "include": [
     "pages",
