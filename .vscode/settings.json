@@ -1,0 +1,10 @@
+{
+  "python.defaultInterpreterPath": "/home/anantubuntu/testingproject/selenium-demo/.venv/bin/python",
+  "python.testing.pytestEnabled": true,
+  "python.testing.pytestArgs": [
+    "-q",
+    "--html=report.html",
+    "--self-contained-html",
+    "--headless"
+  ]
+}

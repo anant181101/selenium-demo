@@ -1,0 +1,10 @@
+{
+  "venvPath": ".",
+  "venv": ".venv",
+  "include": [
+    "pages",
+    "tests",
+    "conftest.py"
+  ],
+  "reportMissingImports": "warning"
+}
